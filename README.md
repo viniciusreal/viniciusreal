@@ -16,12 +16,15 @@ Comunidade **grátis** no WhatsApp para jovens founders e empreendedores que que
 
 ---
 
-### O que eu faço
+### No que eu tô agora
 
-- SaaS e painéis web com **TypeScript, Next.js e Supabase**
-- Pagamentos e assinaturas com **Stripe**
-- Landing pages rápidas com **Astro, HTML e CSS**
-- Automação e IA aplicada a produto
+- Construindo minha segunda startup, do zero e em público
+- Tocando o **build club**, a comunidade de jovens founders
+- Indo de 1.400 pra 10 mil seguidores até janeiro, mostrando cada número no caminho
+
+### Como eu penso
+
+> Ninguém começa pronto. Você fica pronto fazendo.
 
 ### Onde me encontrar
 
